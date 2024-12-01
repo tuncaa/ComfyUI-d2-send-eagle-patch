@@ -82,7 +82,7 @@ class D2_SendEagle:
                 # その他メモ
                 "memo_text": (
                     "STRING",
-                    {"multiline": True},
+                    {"forceInput": False,"multiline": True},
                 ),
             },
             "hidden": {"prompt": "PROMPT", "extra_pnginfo": "EXTRA_PNGINFO"},

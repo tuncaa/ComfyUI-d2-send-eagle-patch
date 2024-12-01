@@ -1,3 +1,7 @@
+## 修正点
+メモ欄にほかのノードからテキストを送れるように修正  
+Fixed the ability to send text from other nodes to the memo field.
+
 # D2 Send Eagle
 
 [English][<a href="README_ja.md">日本語</a>][<a href="README_zh.md">繁体中文</a>]

@@ -10,11 +10,11 @@ from .D2_SendEagle import D2_SendEagle
 WEB_DIRECTORY = "./web"
 
 NODE_CLASS_MAPPINGS = {
-    "D2 Send Eagle patch": D2_SendEagle,
+    "D2 Send Eagle patch": D2_SendEagle_patch,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "D2 Send Eagle patch": "D2 Send Eagle",
+    "D2 Send Eagle patch": "D2 Send Eagle patch",
 }
 
 

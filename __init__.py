@@ -5,7 +5,7 @@
 """
 
 # from .send_eagle import SendEagle
-from .D2_SendEagle import D2_SendEagle
+from .D2_SendEagle_patch import D2_SendEagle_patch
 
 WEB_DIRECTORY = "./web"
 

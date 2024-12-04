@@ -20,7 +20,7 @@ FORCE_WRITE_PROMPT = False
 
 
 
-class D2_SendEagle:
+class D2_SendEagle_patch:
     def __init__(self):
         self.output_dir = folder_paths.get_output_directory()
         self.type = "output"
